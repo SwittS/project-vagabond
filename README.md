@@ -52,9 +52,28 @@ Use the **[git collaborator scenario](./git-collaboration-workflow.md)</a>, feat
 
 Each group has an assigned instructor or DIR, who will act as your client as well as give technical support during instructor-group meetings.
 
-#### Group \#1 - Instructor
-* Student
-* Student
+#### Group \#1 - Justin
+* James
+* Sophia
+* David 
+* Paolo
+ 
+#### Group \#2 - Justin
+* Meg
+* Matthew
+* Switt
+* Jason
+ 
+#### Group \#3 - Ben
+* Bill
+* Ted
+* Daniel
+* Natalia
+
+#### Group \#4 - Melissa
+* Ryan 
+* Tiffani
+* Aaron
 
 
 ## Presentation
