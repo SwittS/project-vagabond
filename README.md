@@ -59,7 +59,7 @@ Each group has an assigned instructor or DIR, who will act as your client as wel
 
 ## Presentation
 
-Each group will present their project on **Monday, August 22n** starting at **1:30pm** for 10 minutes.
+Each group will present their project on **Monday, August 22nd** starting at **1:30pm** for 10 minutes.
 
 Each member of your group should speak during your presentation and mention which parts of the project they worked on.
 
